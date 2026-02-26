@@ -1,0 +1,31 @@
+# ---------- Core ----------
+numpy
+scipy
+matplotlib
+tqdm
+requests
+pyyaml
+
+# ---------- PyTorch (CUDA already installed separately) ----------
+torch
+torchvision
+
+# ---------- Computer Vision ----------
+opencv-python
+pillow
+scikit-image
+cvzone
+ultralytics
+
+# ---------- ML / Utilities ----------
+scikit-learn
+filterpy
+lap
+
+# ---------- Configuration / Experiment Management ----------
+hydra-core
+
+# ---------- Optional but commonly useful ----------
+pandas
+seaborn
+albumentations
